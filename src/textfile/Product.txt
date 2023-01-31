@@ -1,0 +1,15 @@
+Kemeja A:Atasan:All Size:4:5:50000.0
+Kemeja B:Atasan:All Size:0:5:150000.0
+Kemeja C:Atasan:All Size:7:5:75000.0
+Kemeja D:Atasan:M:6:5:80000.0
+Kemeja E:Atasan:All Size:11:5:100000.0
+Rok A:Bawahan:M:3:5:75000.0
+Rok B:Bawahan:XL:14:5:57000.0
+Rok C:Bawahan:All Size:14:5:105000.0
+Rok D:Bawahan:All Size:9:5:55000.0
+Rok E:Bawahan:All Size:8:5:95000.0
+Kain A:Kain:All Size:14:5:150000.0
+Kain B:Kain:All Size:13:5:110000.0
+Kain C:Kain:All Size:1:5:250000.0
+Kain D:Kain:All Size:25:5:350000.0
+Kain E:Kain:All Size:8:5:100000.0

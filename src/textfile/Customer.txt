@@ -1,0 +1,5 @@
+admin:pass:Admin:Admin:M:23:None:
+shaf:pass:Shafa:Amira:F:19:Gold:
+alilul:pass234:Alyza:Pramudya:F:19:Gold:
+dipa1:pass567:Dierta:Pasific:M:19:None:
+jacq5:pass123:Jacq:Abyasa:F:19:Silver:
