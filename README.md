@@ -7,8 +7,8 @@ Sandhyakala is an online shop application that specializes in selling batik prod
 
 **Contributors**<br>
 This project was completed as a group project for the Object-Oriented Programming course. The contributors are:
-* Alyza Pramudya
-* Shafa Amira 
-* Jeselyn Arviana
+* [Alyza Pramudya](https://github.com/pramudyalyza)
+* [Shafa Amira](https://github.com/shafamira) 
+* [Jeselyn Arviana](https://github.com/JeselynArviana)
 * Dierta Pasific
 * Jacqueline Abyasa
