@@ -11,4 +11,4 @@ This project was completed as a group project for the Object-Oriented Programmin
 * [Shafa Amira](https://github.com/shafamira) 
 * [Jeselyn Arviana](https://github.com/JeselynArviana)
 * Dierta Pasific
-* Jacqueline Abyasa
+* [Jacqueline Abyasa](https://github.com/jacqabyasa)
