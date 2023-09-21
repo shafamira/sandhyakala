@@ -10,5 +10,5 @@ This project was completed as a group project for the Object-Oriented Programmin
 * [Alyza Pramudya](https://github.com/pramudyalyza)
 * [Shafa Amira](https://github.com/shafamira) 
 * [Jeselyn Arviana](https://github.com/JeselynArviana)
-* Dierta Pasific
+* [Dierta Pasific](https://github.com/diertapasific)
 * [Jacqueline Abyasa](https://github.com/jacqabyasa)
